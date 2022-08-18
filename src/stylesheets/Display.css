@@ -1,0 +1,18 @@
+#screen {
+    text-align: right;
+    display: flex;
+    flex-direction: column;
+    background-color: rgb(23, 32, 42);
+    color: white;
+    padding-left: 1rem;
+    padding-right: 1rem;
+    border: 0.01rem solid;
+    border-radius: 1rem;
+    border-color: rgb(255, 255, 255,0.1);
+    margin-bottom: 0.4rem;
+}
+
+
+#output {
+    min-height: 2em;
+}
